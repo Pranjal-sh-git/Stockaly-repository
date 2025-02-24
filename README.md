@@ -6,7 +6,7 @@ Stockaly is a user-friendly web application designed to streamline inventory man
 
 To deploy this project -
 
-1. Create a virtual environment in your vsc but hitting the command in the terminal
+1. Create a virtual environment in your vs code by hitting the command in the terminal
 ```bash
   python -m venv my-env
 ```
