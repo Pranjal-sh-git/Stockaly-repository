@@ -1,2 +1,1 @@
-# Stockaly-repository
-<h1> Stockaly - Inventory Management System </h1>
+<h1 style="text-align = center"> Stockaly - Inventory Management System </h1>
